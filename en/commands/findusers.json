@@ -3,5 +3,5 @@
     "TO_MANY_USERS": "trop d'utilisateurs trouver\nessayer de etre plus preci ou de utiliser sont identifiant [avoir l'id de quelqu'un](https://support.discord.com/hc/fr/articles/206346498-O%C3%B9-trouver-l-ID-de-mon-compte-utilisateur-serveur-message-)",
     "CHOSE_CONTENT": "j'ai trouver plusieurs utilisateurs qui on le pseudo que voous rechercher, veuilez reagir avec l'emote lier au utilisateur que vous recherchez ou utilisez sont id",
     "CANCEL": "annulé",
-    "TIMEOUT": "limite de temps depasser"
+    "TIMEOUT": "Limite de temps depasser"
 }
