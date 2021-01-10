@@ -2,6 +2,6 @@
     "UNKNOW_USER": "L'utilisateur {USER} est introuvable",
     "TO_MANY_USERS": "Trop d'utilisateurs trouvés. Essayez d'être plus précis ou utilisez son identifiant [Avoir l'id de quelqu'un](https://support.discord.com/hc/fr/articles/206346498-O%C3%B9-trouver-l-ID-de-mon-compte-utilisateur-serveur-message-)",
     "CHOSE_CONTENT": "J'ai trouvé plusieurs utilisateurs qui ont le pseudo que vous recherchez. Veuillez réagir avec l'emote liée à l'utilisateur que vous recherchez ou utilisez son id",
-    "CANCEL": "Annulé",
+    "CANCEL": "Annuler",
     "TIMEOUT": "Limite de temps depassée"
 }
